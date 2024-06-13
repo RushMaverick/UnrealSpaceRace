@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "UE5",
-			"path": "/Users/Shared/Epic Games/UE_5.3"
+			"path": "/Users/Shared/Epic Games/UE_5.4"
 		}
 	],
 	"settings": {
@@ -16,10 +16,7 @@
 	"extensions": {
 		"recommendations": [
 			"ms-vscode.cpptools",
-			"ms-dotnettools.csharp",
-			"vadimcn.vscode-lldb",
-			"ms-vscode.mono-debug",
-			"dfarley1.file-picker"
+			"ms-dotnettools.csharp"
 		]
 	},
 	"tasks": {
@@ -33,13 +30,13 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"Debug",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -50,7 +47,7 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"Debug",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -59,7 +56,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -70,14 +67,14 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"Debug",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -88,13 +85,13 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"DebugGame",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -105,7 +102,7 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"DebugGame",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -114,7 +111,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -125,14 +122,14 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"DebugGame",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -143,13 +140,13 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"Development",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -160,7 +157,7 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"Development",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -169,7 +166,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -180,14 +177,14 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"Development",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -198,13 +195,13 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"Test",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -215,7 +212,7 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"Test",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -224,7 +221,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -235,14 +232,14 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"Test",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -253,13 +250,13 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"Shipping",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -270,7 +267,7 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"Shipping",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -279,7 +276,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -290,564 +287,14 @@
 					"UnrealSpaceRace",
 					"Mac",
 					"Shipping",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS Debug Build",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"Debug",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS Debug Rebuild",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"Debug",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"UnrealSpaceRace IOS Debug Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS Debug Clean",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"Debug",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex",
-					"-clean"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS DebugGame Build",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"DebugGame",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS DebugGame Rebuild",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"DebugGame",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"UnrealSpaceRace IOS DebugGame Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS DebugGame Clean",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"DebugGame",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex",
-					"-clean"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS Development Build",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"Development",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS Development Rebuild",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"Development",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"UnrealSpaceRace IOS Development Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS Development Clean",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"Development",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex",
-					"-clean"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS Test Build",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"Test",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS Test Rebuild",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"Test",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"UnrealSpaceRace IOS Test Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS Test Clean",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"Test",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex",
-					"-clean"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS Shipping Build",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"Shipping",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS Shipping Rebuild",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"Shipping",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"UnrealSpaceRace IOS Shipping Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace IOS Shipping Clean",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"IOS",
-					"Shipping",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex",
-					"-clean"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS Debug Build",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"Debug",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS Debug Rebuild",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"Debug",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"UnrealSpaceRace TVOS Debug Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS Debug Clean",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"Debug",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex",
-					"-clean"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS DebugGame Build",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"DebugGame",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS DebugGame Rebuild",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"DebugGame",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"UnrealSpaceRace TVOS DebugGame Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS DebugGame Clean",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"DebugGame",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex",
-					"-clean"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS Development Build",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"Development",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS Development Rebuild",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"Development",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"UnrealSpaceRace TVOS Development Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS Development Clean",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"Development",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex",
-					"-clean"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS Test Build",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"Test",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS Test Rebuild",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"Test",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"UnrealSpaceRace TVOS Test Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS Test Clean",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"Test",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex",
-					"-clean"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS Shipping Build",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"Shipping",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS Shipping Rebuild",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"Shipping",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"UnrealSpaceRace TVOS Shipping Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
-				}
-			},
-			{
-				"label": "UnrealSpaceRace TVOS Shipping Clean",
-				"group": "build",
-				"command": "Engine/Build/BatchFiles/Mac/Build.sh",
-				"args": [
-					"UnrealSpaceRace",
-					"TVOS",
-					"Shipping",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
-					"-waitmutex",
-					"-clean"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -858,13 +305,13 @@
 					"UnrealSpaceRaceEditor",
 					"Mac",
 					"Debug",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -875,7 +322,7 @@
 					"UnrealSpaceRaceEditor",
 					"Mac",
 					"Debug",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -884,7 +331,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -895,14 +342,14 @@
 					"UnrealSpaceRaceEditor",
 					"Mac",
 					"Debug",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -913,13 +360,13 @@
 					"UnrealSpaceRaceEditor",
 					"Mac",
 					"DebugGame",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -930,7 +377,7 @@
 					"UnrealSpaceRaceEditor",
 					"Mac",
 					"DebugGame",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -939,7 +386,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -950,14 +397,14 @@
 					"UnrealSpaceRaceEditor",
 					"Mac",
 					"DebugGame",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -968,13 +415,13 @@
 					"UnrealSpaceRaceEditor",
 					"Mac",
 					"Development",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -985,7 +432,7 @@
 					"UnrealSpaceRaceEditor",
 					"Mac",
 					"Development",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -994,7 +441,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			},
 			{
@@ -1005,14 +452,14 @@
 					"UnrealSpaceRaceEditor",
 					"Mac",
 					"Development",
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/Users/Shared/Epic Games/UE_5.3"
+					"cwd": "/Users/Shared/Epic Games/UE_5.4"
 				}
 			}
 		]
@@ -1023,84 +470,84 @@
 			{
 				"name": "Launch UnrealSpaceRace (Debug)",
 				"request": "launch",
-				"program": "/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/Binaries/Mac/UnrealGame-Mac-Debug.app/Contents/MacOS/UnrealGame-Mac-Debug",
+				"program": "/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/Binaries/Mac/UnrealGame-Mac-Debug.app/Contents/MacOS/UnrealGame-Mac-Debug",
 				"preLaunchTask": "UnrealSpaceRace Mac Debug Build",
 				"args": [
 				],
-				"cwd": "/Users/Shared/Epic Games/UE_5.3",
+				"cwd": "/Users/Shared/Epic Games/UE_5.4",
 				"type": "lldb"
 			},
 			{
 				"name": "Launch UnrealSpaceRace (DebugGame)",
 				"request": "launch",
-				"program": "/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/Binaries/Mac/UnrealGame-Mac-DebugGame.app/Contents/MacOS/UnrealGame-Mac-DebugGame",
+				"program": "/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/Binaries/Mac/UnrealGame-Mac-DebugGame.app/Contents/MacOS/UnrealGame-Mac-DebugGame",
 				"preLaunchTask": "UnrealSpaceRace Mac DebugGame Build",
 				"args": [
 				],
-				"cwd": "/Users/Shared/Epic Games/UE_5.3",
+				"cwd": "/Users/Shared/Epic Games/UE_5.4",
 				"type": "lldb"
 			},
 			{
 				"name": "Launch UnrealSpaceRace (Development)",
 				"request": "launch",
-				"program": "/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/Binaries/Mac/UnrealGame.app/Contents/MacOS/UnrealGame",
+				"program": "/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/Binaries/Mac/UnrealGame.app/Contents/MacOS/UnrealGame",
 				"preLaunchTask": "UnrealSpaceRace Mac Development Build",
 				"args": [
 				],
-				"cwd": "/Users/Shared/Epic Games/UE_5.3",
+				"cwd": "/Users/Shared/Epic Games/UE_5.4",
 				"type": "lldb"
 			},
 			{
 				"name": "Launch UnrealSpaceRace (Test)",
 				"request": "launch",
-				"program": "/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/Binaries/Mac/UnrealGame-Mac-Test.app/Contents/MacOS/UnrealGame-Mac-Test",
+				"program": "/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/Binaries/Mac/UnrealGame-Mac-Test.app/Contents/MacOS/UnrealGame-Mac-Test",
 				"preLaunchTask": "UnrealSpaceRace Mac Test Build",
 				"args": [
 				],
-				"cwd": "/Users/Shared/Epic Games/UE_5.3",
+				"cwd": "/Users/Shared/Epic Games/UE_5.4",
 				"type": "lldb"
 			},
 			{
 				"name": "Launch UnrealSpaceRace (Shipping)",
 				"request": "launch",
-				"program": "/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/Binaries/Mac/UnrealGame-Mac-Shipping.app/Contents/MacOS/UnrealGame-Mac-Shipping",
+				"program": "/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/Binaries/Mac/UnrealGame-Mac-Shipping.app/Contents/MacOS/UnrealGame-Mac-Shipping",
 				"preLaunchTask": "UnrealSpaceRace Mac Shipping Build",
 				"args": [
 				],
-				"cwd": "/Users/Shared/Epic Games/UE_5.3",
+				"cwd": "/Users/Shared/Epic Games/UE_5.4",
 				"type": "lldb"
 			},
 			{
 				"name": "Launch UnrealSpaceRaceEditor (Debug)",
 				"request": "launch",
-				"program": "/Users/Shared/Epic Games/UE_5.3/Engine/Binaries/Mac/UnrealEditor-Mac-Debug.app/Contents/MacOS/UnrealEditor-Mac-Debug",
+				"program": "/Users/Shared/Epic Games/UE_5.4/Engine/Binaries/Mac/UnrealEditor-Mac-Debug.app/Contents/MacOS/UnrealEditor-Mac-Debug",
 				"preLaunchTask": "UnrealSpaceRaceEditor Mac Debug Build",
 				"args": [
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject"
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject"
 				],
-				"cwd": "/Users/Shared/Epic Games/UE_5.3",
+				"cwd": "/Users/Shared/Epic Games/UE_5.4",
 				"type": "lldb"
 			},
 			{
 				"name": "Launch UnrealSpaceRaceEditor (DebugGame)",
 				"request": "launch",
-				"program": "/Users/Shared/Epic Games/UE_5.3/Engine/Binaries/Mac/UnrealEditor-Mac-DebugGame.app/Contents/MacOS/UnrealEditor-Mac-DebugGame",
+				"program": "/Users/Shared/Epic Games/UE_5.4/Engine/Binaries/Mac/UnrealEditor-Mac-DebugGame.app/Contents/MacOS/UnrealEditor-Mac-DebugGame",
 				"preLaunchTask": "UnrealSpaceRaceEditor Mac DebugGame Build",
 				"args": [
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject"
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject"
 				],
-				"cwd": "/Users/Shared/Epic Games/UE_5.3",
+				"cwd": "/Users/Shared/Epic Games/UE_5.4",
 				"type": "lldb"
 			},
 			{
 				"name": "Launch UnrealSpaceRaceEditor (Development)",
 				"request": "launch",
-				"program": "/Users/Shared/Epic Games/UE_5.3/Engine/Binaries/Mac/UnrealEditor.app/Contents/MacOS/UnrealEditor",
+				"program": "/Users/Shared/Epic Games/UE_5.4/Engine/Binaries/Mac/UnrealEditor.app/Contents/MacOS/UnrealEditor",
 				"preLaunchTask": "UnrealSpaceRaceEditor Mac Development Build",
 				"args": [
-					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject"
+					"/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject"
 				],
-				"cwd": "/Users/Shared/Epic Games/UE_5.3",
+				"cwd": "/Users/Shared/Epic Games/UE_5.4",
 				"type": "lldb"
 			},
 			{
@@ -1108,11 +555,11 @@
 				"type": "coreclr",
 				"request": "launch",
 				"preLaunchTask": "UnrealBuildTool Mac Development Build",
-				"program": "/Users/Shared/Epic Games/UE_5.3/Engine/Build/BatchFiles/RunUBT.bat",
+				"program": "/Users/Shared/Epic Games/UE_5.4/Engine/Build/BatchFiles/RunUBT.bat",
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace/UnrealSpaceRace.uproject",
+					"-project=/Users/rrask/Documents/Unreal Projects/UnrealSpaceRace/UnrealSpaceRace.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"
@@ -1120,7 +567,7 @@
 				"console": "internalConsole",
 				"internalConsoleOptions": "openOnSessionStart",
 				"stopAtEntry": false,
-				"cwd": "/Users/Shared/Epic Games/UE_5.3"
+				"cwd": "/Users/Shared/Epic Games/UE_5.4"
 			}
 		]
 	}
